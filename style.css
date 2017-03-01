@@ -1,0 +1,31 @@
+body{
+	background-color:#DDE0DF;
+}
+.navbar{
+	height:75px;
+	background-color:white;
+	
+}
+.jakestanding{
+	margin:0 20px 20px 0;
+}
+footer{
+	background-color: #5cb85c;
+	height:100px;
+}
+.about{
+	padding:25px 0 0 0;
+
+
+}
+footer{
+	background-color: #747E80;
+	color:black;
+	text-align: center;
+	padding:25px 0 0 0;
+}
+.comments{
+	width:600px;
+	height:500px;
+	margin:20px;
+}
